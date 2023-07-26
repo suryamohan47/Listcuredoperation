@@ -1,0 +1,65 @@
+/* .tablewrap{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table,th,table td{
+
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px 40px;
+    font-size: large;
+    color:black;
+    background-color: yellow;
+    font-family: tahoma;
+}
+table th{
+    color:blue
+
+
+
+}
+table{
+    border-collapse: collapse;
+} */
+
+.liststyle{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color:yellow;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+listss{
+    list-style: none;
+    padding: 0;
+   margin-top: 10px;
+
+
+}
+
+
+
+
+input{
+    padding: 5px;
+    margin-right: 5px;
+    margin-bottom: 30px;
+
+
+
+}
+
+.addlist button{
+    width: 100px;
+    padding: 5px;
+    color: white;
+    background-color: blue;
+
+
+
+}
+
